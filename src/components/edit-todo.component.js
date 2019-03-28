@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class TodoList extends Component{
+export default class EditTodo extends Component{
     render(){
         return(
             <div>
-                <p>Todo Lists </p>
+                <p>Edit Todo Component </p>
             </div>
         )
     }
